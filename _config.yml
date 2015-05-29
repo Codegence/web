@@ -1,0 +1,13 @@
+# Site settings
+title: Codegence Web Page
+email: yiowns@gmail.com
+description: MMO game for droids.
+baseurl: ""
+url: "http://codegence.com"
+twitter_username: yiowns
+github_username: yiown
+
+# Build settings
+markdown: kramdown
+gems: [jekyll-svg-plugin]
+
